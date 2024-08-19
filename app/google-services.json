@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "978741641795",
+    "project_id": "projeto-teste-d310f",
+    "storage_bucket": "projeto-teste-d310f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978741641795:android:e87d82c11b97b91c3c0af6",
+        "android_client_info": {
+          "package_name": "br.edu.ifsp.dmo.alunosfirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP7MfRJsKu7wVlogEEJdDXP_S5yuB1gP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978741641795:android:b5e237ea2073ce7b3c0af6",
+        "android_client_info": {
+          "package_name": "br.edu.ifsp.dmo.alunosfirestore.view"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP7MfRJsKu7wVlogEEJdDXP_S5yuB1gP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
